@@ -1,0 +1,207 @@
+body{
+  text-align: center;
+
+  font-family: 'Merriweather', serif;
+}
+
+.profile{
+  background-color: #f7dad9;
+  margin-left: -10px;
+  margin-right: -10px;
+  margin-top: -60px;
+}
+ .intro{
+   background-color: #d2f5e3;
+   margin-left: -10px;
+   margin-right: -10px;
+ }
+
+.skills{
+  background-color: #fff8cd;
+  margin-left: -10px;
+  margin-right: -10px;
+  margin-top: -60px;
+}
+
+.touch{
+  background-color: #d9ecf2;
+  margin-left: -10px;
+  margin-right: -10px;
+  margin-top: -60px;
+
+}
+
+.contact{
+  background-color: #e8e8e8;
+  margin-left: -10px;
+  margin-right: -10px;
+  position: relative;
+  top: -60px;
+}
+
+.logo{
+  background-color: #0278ae;
+  margin-left: -10px;
+  margin-right: -10px;
+}
+
+
+
+.name{
+  position: relative;
+  top: 90px;
+  font-size: 100px;
+  font-family: 'Sacramento', cursive;
+}
+
+.hello{
+  font-size: 70px;
+  font-family: 'Sacramento', cursive;
+  position: relative;
+  bottom: 50px;
+}
+
+
+.name:hover{
+  color: white;
+}
+
+.hello:hover{
+  color: white;
+}
+
+p{
+  position: relative;
+  top: 30px;
+  font-size: 35px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.like{
+font-family: 'Merriweather', serif;
+font-size: 45px;
+position: relative;
+top: -20px;
+}
+
+.mountain{
+  height: 50%;
+  width: 45%;
+  position: relative;
+  right: 250px;
+}
+
+
+
+.top-cloud{
+  position:  relative;
+  bottom: 250px;
+  right: 100px;
+  height: 20%;
+  width: 20%;
+}
+
+.bottom-cloud{
+  position: relative;
+  bottom: 520px;
+  left: 650px;
+  height: 20%;
+  width: 20%;
+}
+
+
+.my-pic{
+  height: 10%;
+  width: 10%;
+}
+
+.skill{
+  font-size: 70px;
+  font-family: 'Sacramento', cursive;
+  position: relative;
+  top: 10px;
+}
+
+.skill:hover{
+  color: white;
+}
+
+.computer{
+  height: 15%;
+  width: 15%
+}
+
+.privilege{
+  position: relative;
+  top: -20px;
+}
+
+.getintouch{
+  font-size: 70px;
+  font-family: 'Sacramento', cursive;
+}
+
+.getintouch:hover{
+  color: white;
+}
+
+.travel{
+  position: relative;
+  top: -20px;
+}
+
+.contactme{
+  font-size: 70px;
+  font-family: 'Sacramento', cursive;
+}
+
+.contactme:hover{
+  color: white;
+}
+
+.g{
+  position: relative;
+  height: 5%;
+  width: 5%;
+  top: -10px;
+}
+.linkedin{
+position: relative;
+height: 5%;
+width: 5%;
+top: -10px;
+left: -175px;
+}
+.twitter{
+  position: relative;
+  height: 5%;
+  width: 5%;
+  left: -350px;
+  top: -10px;
+
+}
+.facebook{
+  position: relative;
+  height: 5%;
+  width: 5%;
+  top: -10px;
+  right: -350px;
+}
+.gm{
+  background-color: black;
+  position: relative;
+  height: 500px;
+}
+/*
+.mail:hover{
+  color: #fddb3a;
+}
+.linkedin:hover{
+  color: #fddb3a;
+}
+.twitter:hover{
+  color: #fddb3a;
+}
+.facebook:hover{
+  color: #fddb3a;
+}*/
