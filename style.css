@@ -8,7 +8,7 @@ body{
   background-color: #f7dad9;
   margin-left: -10px;
   margin-right: -10px;
-  margin-top: -60px;
+  margin-top: -100px;
 }
  .intro{
    background-color: #d2f5e3;
@@ -64,10 +64,12 @@ body{
 
 .name:hover{
   color: white;
+  font-size: 120px;
 }
 
 .hello:hover{
   color: white;
+  font-size: 80px;
 }
 
 p{
@@ -124,6 +126,7 @@ top: -20px;
 
 .skill:hover{
   color: white;
+  font-size: 80px;
 }
 
 .computer{
@@ -143,6 +146,7 @@ top: -20px;
 
 .getintouch:hover{
   color: white;
+  font-size: 80px;
 }
 
 .travel{
@@ -157,27 +161,32 @@ top: -20px;
 
 .contactme:hover{
   color: white;
+  font-size: 80px;
 }
 
 .g{
   position: relative;
-  height: 5%;
-  width: 5%;
+  height: 7%;
+  width: 7%;
   top: -10px;
+  border-radius: 50%
+
 }
 .linkedin{
 position: relative;
-height: 5%;
-width: 5%;
-top: -10px;
+height: 7%;
+width: 7%;
+top: -8px;
 left: -175px;
+border-radius: 50%;
 }
 .twitter{
   position: relative;
-  height: 5%;
-  width: 5%;
+  height: 10%;
+  width: 7%;
   left: -350px;
-  top: -10px;
+  top: -8px;
+  border-radius: 50%;
 
 }
 .facebook{
@@ -185,23 +194,25 @@ left: -175px;
   height: 5%;
   width: 5%;
   top: -10px;
-  right: -350px;
+  right: -400px;
+  border-radius: 100%;
 }
-.gm{
-  background-color: black;
-  position: relative;
-  height: 500px;
+
+.g:hover{
+  transform: scale(1.5);
 }
-/*
-.mail:hover{
-  color: #fddb3a;
-}
+
+  .twitter:hover{
+    transform: scale(1.5);
+  }
 .linkedin:hover{
-  color: #fddb3a;
+  transform: scale(1.5);
+
 }
-.twitter:hover{
-  color: #fddb3a;
-}
+
 .facebook:hover{
-  color: #fddb3a;
-}*/
+  transform: scale(1.5);
+}
+
+  
+  
